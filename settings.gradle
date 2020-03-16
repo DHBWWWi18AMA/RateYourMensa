@@ -1,0 +1,2 @@
+rootProject.name='Rate Your Mensa'
+include ':app'
